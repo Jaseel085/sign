@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575480319541",
+    "project_id": "sign-ab364",
+    "storage_bucket": "sign-ab364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575480319541:android:cd5dc1efacc221894dab7c",
+        "android_client_info": {
+          "package_name": "com.example.sign"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBDwpyf59t79zgUpjYqhTSgEDjCVFMJ2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
